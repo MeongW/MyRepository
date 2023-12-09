@@ -5,5 +5,6 @@ public class A {
 		System.out.println("This is Class A.");
 		System.out.println("My changed in master branch.");
 		System.out.println("My changed in devB branch.");
+		System.out.println("My changed in devC branch.");
 	}
 }
